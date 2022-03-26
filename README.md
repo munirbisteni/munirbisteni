@@ -1,7 +1,7 @@
 # Oi! Eu sou o Munir!
 - 🌱 Atualmente eu estou estudando desenvolvimento Web!
 - 📫 Contate-me no e-mail: Munir.mlcb@gmail.com.
-- 🌌 Ou pelo Discord: Munir#1350.
+
 ##
 <div align="center">
   <a href="https://github.com/munirbisteni">
