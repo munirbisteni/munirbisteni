@@ -1,5 +1,20 @@
-# Oi! Eu sou o Munir!
-- 🧞 Trabalhando na Senhor Contábil Contabilidade Online, estou focado no desenovlivmento e manutanção de código da empresa!
-- 🌱 Atualmente eu estou estudando Engenharia de Software na FIAP!
-- 🎓 Formado em Desenvolvimento de Sistemas no Colégio técnico da Unicamp!
-- 📫 Contate-me no e-mail: Munir.mlcb@gmail.com.
+# Oi! Eu sou o Munir 👋
+
+Desenvolvedor full-stack em Campinas/SP. Gosto de pegar um problema do começo ao fim: entender quem vai usar, desenhar a solução, construir e colocar no ar.
+
+## 🧞 Hoje
+Desenvolvedor Full-Stack na **Senhor Contábil – Contabilidade Online**, trabalhando em sistemas web, integrações e no site da empresa.
+
+## 🚀 Projetos pessoais
+- **[Missões e Cidade](missoes-e-cidade-ibaviva.vercel.app)**: site voluntário feito sozinho em uma semana (Next.js + Vercel)
+- **App de finanças**: app Android para controle financeiro mensal
+
+## 🛠️ Com o que costumo trabalhar
+`C#` `.NET` `JavaScript` `React` `Next.js` `SQL` `PHP/WordPress` `Docker`
+
+## 🎓 Formação
+- Técnico em Desenvolvimento de Sistemas: Cotuca/Unicamp
+- Psicologia: USF (em andamento). Estudo como as pessoas usam, aprendem e trabalham, e trago isso para o desenvolvimento de produtos.
+
+## 📫 Contato
+munir.mlcb@gmail.com · [LinkedIn](https://www.linkedin.com/in/munir-lucio-bisteni/)
