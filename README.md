@@ -8,7 +8,7 @@ Desenvolvedor Full-Stack na **Senhor Contábil – Contabilidade Online**, traba
 ## 🚀 Projetos pessoais
 - **[Missões e Cidade](missoes-e-cidade-ibaviva.vercel.app)**: site voluntário feito sozinho em uma semana (Next.js + Vercel)
 - **App de finanças** (em breve na Play Store): app Android para controle financeiro mensal, com contas de usuário e assinatura
-- 
+
 ## 🛠️ Com o que costumo trabalhar
 `C#` `.NET` `JavaScript` `React` `Next.js` `SQL` `PHP/WordPress` `Docker`
 
