@@ -4,14 +4,7 @@ Desenvolvedor full-stack em Valinhos/SP, na região de Campinas. Gosto de pegar 
 
 🌐 **Portfólio:** [munirbisteni.com](https://www.munirbisteni.com)
 
-## 💼 Hoje
-
-Desenvolvedor Full-Stack na **Senhor Contábil** (desde fev/2024). O código é privado, mas o que fiz está resumido aqui:
-
-- **Portal do cliente e app interno:** levantei os requisitos com a diretoria, desenhei a solução com a equipe sênior e acompanhei a implantação. Os clientes atendidos por mês triplicaram.
-- **Chatbot de WhatsApp em C#:** feito sozinho; qualificou leads por um ano, com alto volume diário de mensagens.
-- **NFS-e sem API pública:** emissão e coleta de notas em vários sistemas municipais, incluindo o Emissor Nacional.
-- **WordPress e infraestrutura Linux:** servidor, publicação, atualizações e segurança do site da empresa.
+💼 **Hoje** -> Desenvolvedor Full-Stack na **Senhor Contábil** (desde fev/2024). O código é privado, mas o que fiz está resumido aqui:
 
 ## 🚀 Projetos
 
