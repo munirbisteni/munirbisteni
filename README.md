@@ -4,7 +4,7 @@ Desenvolvedor full-stack em Valinhos/SP, na região de Campinas. Gosto de pegar 
 
 🌐 **Portfólio:** [munirbisteni.com](https://www.munirbisteni.com)
 
-💼 **Hoje** -> Desenvolvedor Full-Stack na **Senhor Contábil** (desde fev/2024). O código é privado, mas o que fiz está resumido aqui:
+💼 **Hoje** -> Desenvolvedor Full-Stack na **Senhor Contábil** (desde fev/2024). 
 
 ## 🚀 Projetos
 
